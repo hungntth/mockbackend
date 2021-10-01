@@ -91,13 +91,13 @@
 	<build>
 		<plugins>
 			<plugin>
-				<!-- <groupId>org.springframework.boot</groupId> -->
-				<!-- <artifactId>spring-boot-maven-plugin</artifactId>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
 					<compilerArgument>-parameters</compilerArgument>
-				</configuration> -->
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
